@@ -1,0 +1,7 @@
+*.amx
+
+plugins/
+
+logs/
+server_log.txt
+crashinfo.txt
